@@ -44,16 +44,19 @@
 .aboutd1e3f52aae36e7047 .DescriptionHeading {
     font-size: 40px;
 }
-.aboutd1e3f52aae36e7047 .btn-outline-secondary,
-.aboutd1e3f52aae36e7047 .btn-outline-secondary:hover,
-.aboutd1e3f52aae36e7047 .btn-outline-secondary:not(:disabled):not(.disabled):active{
+.aboutd1e3f52aae36e7047 .btn-outline-secondary{
 background-color: var(--error-Color);
 color: var(--main-Background-Color);
 border-radius: var(--button-border-radius);
 font-weight: var(--button-font-weight);
 }
 
-
+.aboutd1e3f52aae36e7047 .btn-outline-secondary:hover,
+.aboutd1e3f52aae36e7047 .btn-outline-secondary:not(:disabled):not(.disabled):active{
+background-color: var(--error-Color);
+color: var(--main-Background-Color);
+font-weight: var(--button-font-weight);
+}
 
 
 
