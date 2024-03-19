@@ -49,6 +49,7 @@ background-color: var(--error-Color);
 color: var(--main-Background-Color);
 border-radius: var(--button-border-radius);
 font-weight: var(--button-font-weight);
+border: none;
 }
 .aboutd1e3f52aae36e7047 .btn-outline-secondary:hover,
 .aboutd1e3f52aae36e7047 .btn-outline-secondary:not(:disabled):not(.disabled):active{
