@@ -91,28 +91,37 @@ font-size: var(--paragraph);
     }
     .fernandof38911b935c3ef6d9 h3{
         font-size: var(--heading-medium);
-        margin-top: 10px;
+        margin-top: 10px !important;
     }
 /* teama72342011f2d707e */
 .teama72342011f2d707e .row.heading h2{
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
 .teama72342011f2d707e .our-webcoderskull .cnt-block h3{
-    font-size: var(--heading-two);
+    font-size: var(--heading-medium);
 }
 .teama72342011f2d707e .our-webcoderskull .cnt-block p{
     font-size: 20px;
 }
 /* campbelldy9djhgjfg */
+.campbelldy9djhgjfg {
+    display: none;
+}
 .campbelldy9djhgjfg h1 {
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
 /* serviceebfcf165e4ae5852 */
 .serviceebfcf165e4ae5852{
     padding-bottom: 4em;
 }
+.serviceebfcf165e4ae5852 h2{
+    font-size: var(--heading-large);
+}
 .serviceebfcf165e4ae5852 .Background {
     background-color: var(--black-Color);
+}
+.serviceebfcf165e4ae5852 .card-title{
+    font-size: var(--paragraph);
 }
 .serviceebfcf165e4ae5852 .stroke{
     color: var(--warning-Color);
