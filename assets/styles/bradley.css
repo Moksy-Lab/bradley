@@ -27,6 +27,9 @@
 .fdb-block {
     padding: 0rem 0;
 }
+html{
+    font-family: var(--secondary-Font);
+}
 /* headerhdm8ad340b3 */
 .headerhdm8ad340b3 .navbar-light .navbar-nav .nav-link{
     color: var(--secondary-Color);
